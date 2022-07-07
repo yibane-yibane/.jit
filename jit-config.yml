@@ -3,3 +3,7 @@ aws:
   account_name: e
   regions: []
   type: account
+- account_id: '3241314'
+  account_name: ds
+  regions: []
+  type: account
