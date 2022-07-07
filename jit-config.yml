@@ -1,9 +1,5 @@
 aws:
-- account_id: '145504561781'
-  account_name: e
-  regions: []
-  type: account
-- account_id: '3241314'
-  account_name: ds
+- account_id: '1234567'
+  account_name: r
   regions: []
   type: account
