@@ -1,6 +1,5 @@
 aws:
 - account_id: '145504561781'
-  account_name: erez.bluv
-  regions:
-  - us-east-1
+  account_name: e
+  regions: []
   type: account
