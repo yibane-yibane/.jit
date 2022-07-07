@@ -1,6 +1,5 @@
 aws:
-- account_id: '7777777777'
-  account_name: gyugyu
-  regions:
-  - us-east-1
+- account_id: '758493938475'
+  account_name: jjffrr
+  regions: []
   type: account
