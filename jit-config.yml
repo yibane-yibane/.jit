@@ -7,3 +7,7 @@ aws:
   account_name: "\u05DB\u05D2\u05D3\u05DB\u05D2"
   regions: []
   type: org
+- account_id: '123456789098'
+  account_name: hjjkl
+  regions: []
+  type: account
