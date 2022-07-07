@@ -1,13 +1,6 @@
 aws:
-- account_id: '123123123'
-  account_name: r
-  regions: []
-  type: account
-- account_id: '321432432'
-  account_name: "\u05DB\u05D2\u05D3\u05DB\u05D2"
-  regions: []
-  type: org
-- account_id: '123456789098'
-  account_name: hjjkl
-  regions: []
+- account_id: '7777777777'
+  account_name: gyugyu
+  regions:
+  - us-east-1
   type: account
