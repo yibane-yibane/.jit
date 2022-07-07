@@ -3,3 +3,8 @@ aws:
   account_name: r
   regions: []
   type: account
+- account_id: '123456789021'
+  account_name: aa
+  regions:
+  - us-east-1
+  type: account
