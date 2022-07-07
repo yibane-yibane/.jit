@@ -1,6 +1,6 @@
 aws:
-- account_id: '6437892022'
-  account_name: rnjewk
+- account_id: '65436354'
+  account_name: gfds
   regions:
   - us-east-1
   type: account
