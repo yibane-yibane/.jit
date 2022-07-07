@@ -3,3 +3,7 @@ aws:
   account_name: r
   regions: []
   type: account
+- account_id: '321432432'
+  account_name: "\u05DB\u05D2\u05D3\u05DB\u05D2"
+  regions: []
+  type: org
