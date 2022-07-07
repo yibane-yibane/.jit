@@ -1,10 +1,6 @@
 aws:
-- account_id: '758493938475'
-  account_name: jjffrr
-  regions: []
-  type: account
-- account_id: '432543254'
-  account_name: dwsfa
+- account_id: '6437892022'
+  account_name: rnjewk
   regions:
   - us-east-1
   type: account
