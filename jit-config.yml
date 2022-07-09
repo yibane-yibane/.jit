@@ -19,3 +19,8 @@ aws:
   regions:
   - us-east-1
   type: org
+- account_id: '456789765'
+  account_name: dewcdsc
+  regions:
+  - us-east-1
+  type: account
