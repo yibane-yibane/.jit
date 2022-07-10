@@ -1,11 +1,6 @@
 aws:
-- account_id: 6586554hfgd
-  account_name: hgfdhg
+- account_id: '7895635'
+  account_name: gdfyujk
   regions:
   - us-east-1
-  type: account
-- account_id: '7876547'
-  account_name: dfgfhhj
-  regions:
-  - us-east-1
-  type: account
+  type: org
