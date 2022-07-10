@@ -1,26 +1,6 @@
 aws:
-- account_id: '356675647'
-  account_name: dg
-  regions:
-  - us-east-1
-  type: account
-- account_id: '90564535567'
-  account_name: tdrfgh
-  regions:
-  - us-east-1
-  type: org
-- account_id: '5678909876'
-  account_name: ghjk
-  regions:
-  - us-east-1
-  type: account
-- account_id: '64352413'
-  account_name: fdsaa
-  regions:
-  - us-east-1
-  type: org
-- account_id: '456789765'
-  account_name: dewcdsc
+- account_id: '23456787654'
+  account_name: hgfdgfbfg
   regions:
   - us-east-1
   type: account
