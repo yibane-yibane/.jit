@@ -4,3 +4,8 @@ aws:
   regions:
   - us-east-1
   type: account
+- account_id: '754836825'
+  account_name: fhdsjkafhds
+  regions:
+  - us-east-1
+  type: org
