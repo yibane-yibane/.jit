@@ -9,3 +9,8 @@ aws:
   regions:
   - us-east-1
   type: account
+- account_id: '9898479823'
+  account_name: nfekwqf;d
+  regions:
+  - us-east-1
+  type: account
