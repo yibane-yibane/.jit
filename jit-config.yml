@@ -1,6 +1,1 @@
 aws:
-- account_id: '345235'
-  account_name: frewf
-  regions:
-  - us-east-1
-  type: account
