@@ -29,3 +29,8 @@ aws:
   regions:
   - us-east-1
   type: account
+- account_id: '76453765436546'
+  account_name: nhfhg
+  regions:
+  - us-east-1
+  type: account
