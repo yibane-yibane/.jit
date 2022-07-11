@@ -24,3 +24,8 @@ aws:
   regions:
   - us-east-1
   type: account
+- account_id: '65432654'
+  account_name: gfvdbgf
+  regions:
+  - us-east-1
+  type: account
