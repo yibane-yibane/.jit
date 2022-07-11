@@ -1,1 +1,12 @@
 aws:
+- account_id: '256436'
+  account_name: ge
+  regions:
+  - us-east-1
+  type: account
+- account_id: '85768976'
+  account_name: kjuyt
+  regions:
+  - us-east-2
+  - us-east-1
+  type: account
