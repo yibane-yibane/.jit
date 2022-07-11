@@ -1,16 +1,1 @@
 aws:
-- account_id: '123456123'
-  account_name: ' njn cg'
-  regions:
-  - us-east-1
-  type: account
-- account_id: '23456'
-  account_name: dg
-  regions:
-  - us-east-1
-  type: account
-- account_id: '259159'
-  account_name: frtegt
-  regions:
-  - us-east-1
-  type: org
