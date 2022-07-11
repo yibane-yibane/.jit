@@ -1,6 +1,1 @@
 aws:
-- account_id: '415646'
-  account_name: gfdsgrtew
-  regions:
-  - us-east-1
-  type: account
