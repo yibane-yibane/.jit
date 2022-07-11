@@ -1,1 +1,6 @@
 aws:
+- account_id: '12364156'
+  account_name: fdsaa
+  regions:
+  - us-east-1
+  type: account
