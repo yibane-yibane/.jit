@@ -19,3 +19,8 @@ aws:
   regions:
   - us-east-1
   type: account
+- account_id: 097878733
+  account_name: kgjhkjhg
+  regions:
+  - us-east-1
+  type: account
