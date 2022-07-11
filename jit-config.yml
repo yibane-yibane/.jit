@@ -1,1 +1,6 @@
 aws:
+- account_id: '543243'
+  account_name: gfw
+  regions:
+  - us-east-1
+  type: account
