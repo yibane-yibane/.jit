@@ -1,6 +1,6 @@
 aws:
-- account_id: '432423'
-  account_name: rew
+- account_id: '6543654'
+  account_name: hgtreht
   regions:
   - us-east-1
   type: account
