@@ -1,16 +1,6 @@
 aws:
-- account_id: t543y76534
-  account_name: gfdsgfd
-  regions:
-  - us-east-1
-  type: account
-- account_id: '754836825'
-  account_name: fhdsjkafhds
-  regions:
-  - us-east-1
-  type: org
-- account_id: '5436543'
-  account_name: dsafds
+- account_id: '74657876457573'
+  account_name: nhgfnbgf
   regions:
   - us-east-1
   type: account
