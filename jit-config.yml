@@ -1,6 +1,6 @@
 aws:
-- account_id: '457645'
-  account_name: khgfcvjgy
+- account_id: '459489'
+  account_name: konji
   regions:
   - us-east-1
   type: account
