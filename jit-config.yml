@@ -1,6 +1,1 @@
 aws:
-- account_id: '543254'
-  account_name: fgds
-  regions:
-  - us-east-1
-  type: account
