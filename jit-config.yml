@@ -1,6 +1,1 @@
 aws:
-- account_id: '459489'
-  account_name: konji
-  regions:
-  - us-east-1
-  type: account
