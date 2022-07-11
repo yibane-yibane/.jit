@@ -1,1 +1,6 @@
 aws:
+- account_id: '159847'
+  account_name: vgfe
+  regions:
+  - us-east-1
+  type: account
