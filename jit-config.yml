@@ -1,1 +1,6 @@
 aws:
+- account_id: juyyjuyrj
+  account_name: ' mngh'
+  regions:
+  - us-east-1
+  type: account
