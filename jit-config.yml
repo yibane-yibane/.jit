@@ -1,6 +1,1 @@
 aws:
-- account_id: '4321432'
-  account_name: fdewqfe
-  regions:
-  - us-east-1
-  type: account
