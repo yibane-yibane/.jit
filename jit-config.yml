@@ -1,6 +1,1 @@
 aws:
-- account_id: '256436'
-  account_name: ge
-  regions:
-  - us-east-1
-  type: account
