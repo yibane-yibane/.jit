@@ -9,3 +9,8 @@ aws:
   regions:
   - us-east-1
   type: org
+- account_id: '65432643'
+  account_name: fdqa
+  regions:
+  - us-east-1
+  type: org
