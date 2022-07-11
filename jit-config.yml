@@ -1,1 +1,6 @@
 aws:
+- account_id: '15498'
+  account_name: fsda
+  regions:
+  - us-east-1
+  type: account
