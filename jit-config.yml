@@ -1,11 +1,6 @@
 aws:
-- account_id: '1569456'
-  account_name: vfd
+- account_id: '05156'
+  account_name: ' vcd'
   regions:
   - us-east-1
-  type: account
-- account_id: yr6
-  account_name: g
-  regions:
-  - us-east-1
-  type: account
+  type: org
