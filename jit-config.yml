@@ -1,6 +1,1 @@
 aws:
-- account_id: '8584927'
-  account_name: gnfwjkh
-  regions:
-  - us-east-1
-  type: account
