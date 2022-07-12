@@ -1,6 +1,1 @@
 aws:
-- account_id: '05156'
-  account_name: ' vcd'
-  regions:
-  - us-east-1
-  type: org
