@@ -29,3 +29,8 @@ aws:
   regions:
   - us-east-1
   type: org
+- account_id: '3243'
+  account_name: dew
+  regions:
+  - us-east-1
+  type: account
