@@ -1,6 +1,1 @@
 aws:
-- account_id: '4523'
-  account_name: gfds
-  regions:
-  - us-east-1
-  type: org
