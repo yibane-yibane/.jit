@@ -34,3 +34,8 @@ aws:
   regions:
   - us-east-1
   type: account
+- account_id: '43242'
+  account_name: dsd
+  regions:
+  - us-east-1
+  type: org
