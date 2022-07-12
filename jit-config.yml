@@ -24,3 +24,8 @@ aws:
   regions:
   - us-east-1
   type: account
+- account_id: '54254'
+  account_name: gfe
+  regions:
+  - us-east-1
+  type: org
