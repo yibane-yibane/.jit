@@ -1,6 +1,1 @@
 aws:
-- account_id: '756475'
-  account_name: hytrehtr
-  regions:
-  - us-east-1
-  type: account
