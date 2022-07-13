@@ -1,6 +1,1 @@
 aws:
-- account_id: '432543'
-  account_name: tgrewfr
-  regions:
-  - us-east-1
-  type: account
