@@ -1,1 +1,6 @@
 aws:
+- account_id: '6543'
+  account_name: hgt
+  regions:
+  - us-east-1
+  type: account
