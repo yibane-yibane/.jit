@@ -4,3 +4,8 @@ aws:
   regions:
   - us-east-1
   type: account
+- account_id: '5432564326'
+  account_name: grewge
+  regions:
+  - us-east-1
+  type: account
