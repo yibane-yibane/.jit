@@ -1,6 +1,1 @@
 aws:
-- account_id: y654765
-  account_name: ghfdhf
-  regions:
-  - us-east-1
-  type: account
